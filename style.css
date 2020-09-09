@@ -34,3 +34,11 @@ body {
 .row {
   display: block;
 }
+
+@media (min-width:1200px)
+{
+  .row {
+  display: flex;
+  }
+}
+
